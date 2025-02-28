@@ -1,0 +1,8 @@
+(001`Thuoc Ha Sot`Khong dung cho phu nu dang mang thai`false)
+(002`Thuoc giam dau`Giam dau, ha sot`false)
+(003`1`2`true)
+(004`Thuoc loi tieu`Loai bo chat long du thua`false)
+(005`Thuoc chong viem khong steroid`Giam dau va chong viem`false)
+(006`Thuoc an than`Lam diu hoac giam lo lang`false)
+(007`Thuoc chong tram cam`Dieu tri tram cam`false)
+(008`Thuoc chong dong kinh`Dieu tri dong kinh`false)

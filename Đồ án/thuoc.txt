@@ -1,0 +1,3 @@
+(HT2004`Thuoc Moi Them Vao`(001`Thuoc Ha Sot)`500`Cong Ty ABC`32500`false)
+(MT001`Thuoc A`(PL01`Loai 1)`2`NSX1`15000`false)
+(MT002`Thuoc B`(PL02`Loai 2)`150`NSX2`12000`true)

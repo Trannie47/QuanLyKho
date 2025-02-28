@@ -1,0 +1,4 @@
+(001`NhaCungCapA`456 Duong 2, Quan 3`0123456789`true)
+(002`NhaCungCapB`789 Duong 4, Quan 5`0981234567`false)
+(003`NhaCungCapC`101 Duong 6, Quan 7`0976543210`false)
+(004`NhaCungCapD`202 Duong 8, Quan 9`0912345678`true)
